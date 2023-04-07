@@ -1,5 +1,17 @@
 # My projects
 ---
+## Machine learning
+
+### Bike sharing demand prediction
+
+A multiple linear regression model for the prediction of demand for shared bikes based on available independent variables.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shivasaibondugula/Bike-sharing-demand-prediction)
+
+<center><img src="images/bike_sharing_demand_prediction.png"/></center>
+
+---
+---
 ## Data analysis
 
 ### Lending club
