@@ -1,5 +1,16 @@
 # My projects
 ---
+## Machine learning (Logistic regression, Decision trees and Random forest)
+
+### Telecom-churn-prediction 
+
+<center><img src="images/telecom_churn_prediction.png"/></center>
+
+You are required to model to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc. It should also be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shivasaibondugula/Telecom-churn-prediction)
+
+---
 ## Machine learning (Ridge and Lasso regression)
 
 ### House-price-prediction 
