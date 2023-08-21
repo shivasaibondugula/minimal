@@ -1,5 +1,15 @@
 # My projects
 ---
+## Deep learning (Convolutional Neural Networks)
+
+### Melanoma-skin-cancer-detection
+
+<center><img src="images/Melanoma-skin-cancer-detection.png"/></center>
+
+To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shivasaibondugula/Melanoma-skin-cancer-detection)
+---
 ## Machine learning (Logistic regression, Decision trees and Random forest)
 
 ### Telecom-churn-prediction 
